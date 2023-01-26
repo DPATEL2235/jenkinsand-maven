@@ -46,7 +46,8 @@
         <artifactId>maven-pmd-plugin</artifactId>
         <version>3.17.0</version>
       </plugin>
-    </build>
-      
+    
     </plugins>
+  </build>
+
 </project>
